@@ -1,0 +1,12 @@
+.article-actividad {
+  width: 100%;
+}
+
+.pregunta {
+  height: 30px;
+  background: #d4a402;
+  color: #004669;
+  padding: 5px;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
